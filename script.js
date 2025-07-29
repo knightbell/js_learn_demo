@@ -3,8 +3,46 @@
 console.log("Hello World");
 
 
+//////   SECTION 1: WELCOME. WELCOME. WELCOME 
+//01.
+//02.
+//03.
+//04.
+//05.
 
-// Write function examples - Arrays - Objects and other 
+//////   SECTION 2: JavaScript Fundamentals - PART 1
+//05.
+//06.
+//07.
+//08.
+//09.
+//10.
+//11. Data Type : JavaScript Data Types and Dynamic Typing
+
+            //Objects and Primitive Data Types 
+/*
+                 Objects and Primitive Data Types
+In JavaScript, every value is either an object or a primitive value. A value is only a primitive when it is not an object.
+let us focus on primitive data types.
+
+There are seven primitive data types in JavaScript:
+
+1. number
+2. string
+3. boolean
+4. undefined
+5. null
+6. symbol
+7. BigInt
+
+*/
+
+
+//12.
+//13.
+//14.
+//15.
+//16.
 
 //17. Strings and Template Literals().  ____ STRINGS AND TEMPLATE LITERALS ____ 
         const firstname_1 = 'Jonas';
@@ -31,6 +69,7 @@ console.log("Hello World");
         console.log(`String 
             with multiple 
             lines`);
+
 
 //33. Functions 
 //34. Function Declaration VS Expression  
