@@ -17,9 +17,13 @@ console.log("Hello World");
 //08.
 //09.
 //10.
+
+
 //11. Data Type : JavaScript Data Types and Dynamic Typing
 
-            //Objects and Primitive Data Types 
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+//++++++++++++++++++++++++++++++++++++++++++++Objects and Primitive Data Types++++++++++++++++++++++++++++++++++++++++++++++++
+
 /*
                  Objects and Primitive Data Types
 In JavaScript, every value is either an object or a primitive value. A value is only a primitive when it is not an object.
@@ -36,7 +40,7 @@ There are seven primitive data types in JavaScript:
 7. BigInt
 
 */
-
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 //12.
 //13.
