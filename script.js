@@ -6,7 +6,7 @@ console.log("Hello World");
 
 // Write function examples - Arrays - Objects and other 
 
-//17. Strings and Template Literals(). 
+//17. Strings and Template Literals().  ____ STRINGS AND TEMPLATE LITERALS ____ 
         const firstname_1 = 'Jonas';
         const job_n = 'teacher';
         const birthYear = 1991;
@@ -19,8 +19,18 @@ console.log("Hello World");
         const jones_name = `I'm ${firstname_1}, a ${year - birthYear} year old ${job}`; 
         console.log(jones_names);
 
+        //
         console.log(`Just a simple String . . .. `);
-        
+
+        // 
+        console.log('String with \n\ 
+            multiple \n\
+            lines');
+
+        // 
+        console.log(`String 
+            with multiple 
+            lines`);
 
 //33. Functions 
 //34. Function Declaration VS Expression  
