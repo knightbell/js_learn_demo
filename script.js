@@ -2,8 +2,15 @@
 
 console.log("Hello World");
 
+
+
 // Write function examples - Arrays - Objects and other 
 
+//17. Strings and Template Literals(). 
+        const firstname_1 = 'Jonas';
+        const job_n = 'teacher';
+        const birthYear = 1991;
+        const year = 2037;   
 
 //33. Functions 
 //34. Function Declaration VS Expression  
