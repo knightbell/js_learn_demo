@@ -12,6 +12,16 @@ console.log("Hello World");
         const birthYear = 1991;
         const year = 2037;   
 
+        const jones = " I'm " + firstname_1 + ', a' + (year - birthYear) + 'years old' + job + ' ! ';
+        console.log(jones);
+
+        // Templete Literal. ES6 Feature
+        const jones_name = `I'm ${firstname_1}, a ${year - birthYear} year old ${job}`; 
+        console.log(jones_names);
+
+        console.log(`Just a simple String . . .. `);
+        
+
 //33. Functions 
 //34. Function Declaration VS Expression  
 //35. Arrow Functions 
