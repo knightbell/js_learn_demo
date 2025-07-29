@@ -46,7 +46,13 @@ There are seven primitive data types in JavaScript:
 
 /*
                  let, const and var
-                 
+                    let and const were introduced in ES6, while the var keyword is the old way of declaring variables.
+
+                    Variables created with const are immutable, which also means that we cannot declare empty const variables. For example, this is not legal:
+
+                 =====>   const year;
+
+                 This will result in an error: missing initializer in const declaration. When using const, we need an initial value.
 
 */
 
