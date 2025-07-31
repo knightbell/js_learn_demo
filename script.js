@@ -87,7 +87,18 @@ There are seven primitive data types in JavaScript:
             with multiple 
             lines`);
 
+//21. Truthy and Falsy Values
 
+         // There are only 5 falsy values: 
+              /*  1)           0, 
+                  2)          '',
+                  3)   undefined,
+                  4)        null,
+                  5)         NaN,     
+
+              ofcourse 'false' is also a falsy value so it is not include in this list.
+              
+                  */
 //33. Functions 
 //34. Function Declaration VS Expression  
 //35. Arrow Functions 
