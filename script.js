@@ -97,8 +97,19 @@ There are seven primitive data types in JavaScript:
                   5)         NaN,     
 
               ofcourse 'false' is also a falsy value so it is not include in this list.
+
+              const money = 0;
+              if (money) {
+               console.log ("Don't spend it all ;) ");
+              } else {
+                console.log ("You should get a job");
+              }
               
-                  */
+              */
+
+                 
+
+
 //33. Functions 
 //34. Function Declaration VS Expression  
 //35. Arrow Functions 
