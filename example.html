@@ -1,19 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <title>My Web Page</title>
-
-    </head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My First Page</title>
+</head>
 <body>
+  <header>
+    <h1>Welcome to My Page</h1>
+    <nav>
+      <a href="#about">About</a> |
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
 
-    <h1>Hello, World!</h1>
-    <p>This is a basic HTML page.</p>
+  <main>
+    <section id="about">
+      <h2>About Me</h2>
+      <p>This is a paragraph describing me.</p>
+      <img src="me.jpg" alt="A photo of me" width="200">
+    </section>
 
+    <section id="contact">
+      <h2>Contact</h2>
+      <form action="/submit" method="POST">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required />
+        <br>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required />
+        <br>
+        <button type="submit">Send</button>
+      </form>
+    </section>
+  </main>
 
-    <script src="script.js"></script>
-
+  <footer>
+    <p>&copy; 2025 My Website</p>
+  </footer>
 </body>
 </html>
